@@ -9,9 +9,5 @@ export class AppComponent {
   title = 'Nueva Aplicación';
   name: string;
  
-  usuario = { email: '', pass: '' };
- 
-  Ingresar() {
-    console.log(this.usuario);
-  }
+
 }

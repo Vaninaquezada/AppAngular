@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\componentes",
+    "\\src\\app\\componentes\\bienvenida",
+    "\\src\\app\\componentes\\bienvenida\\bienvenida",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\componentes\\bienvenida\\bienvenida\\bienvenida.component.html",
+  "PreviewInSolutionExplorer": false
+}
